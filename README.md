@@ -17,4 +17,5 @@
 
 - Codificando, compilando e executando o programa "oi mundo"
 - Exercício: codificando um primeiro programa
+- Comentários
 - 
