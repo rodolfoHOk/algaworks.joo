@@ -1,6 +1,6 @@
 # Java e Orientação a Objetos
 
-> Algaworks
+> Curso da Algaworks
 
 ## Conteúdo programático
 
@@ -28,4 +28,5 @@
 - Tipos primitivos
 - Outros operadores de atribuição
 - Conversão de tipos primitivos
+- Promoção aritmética
 - 
