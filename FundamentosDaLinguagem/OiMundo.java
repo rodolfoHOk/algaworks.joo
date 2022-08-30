@@ -13,8 +13,14 @@ public class OiMundo {
 		System.out.println("Oi \nMundo!"); // escape para imprimir pular de linha [\n]
 	}
 	
-	/*
-	 * Obs: não podemos usar as palavras reservadas para nomes de classe e nomes de métodos
+	/* Palavras reservadas:
+	 * 
+	 * - não podemos usar as palavras reservadas para nomes de classe e nomes de métodos
 	 */
 	
+	
+	/* Convenções de código
+	 * 
+	 * - https://www.oracle.com/java/technologies/javase/codeconventions-namingconventions.html
+	 */
 }
