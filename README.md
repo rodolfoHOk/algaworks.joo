@@ -26,4 +26,5 @@
 - Operadores aritméticos
 - Exercício: variáveis e operadores aritméticos
 - Tipos primitivos
+- Outros operadores de atribuição
 - 
