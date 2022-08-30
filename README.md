@@ -29,4 +29,5 @@
 - Outros operadores de atribuição
 - Conversão de tipos primitivos
 - Promoção aritmética
+- Exercício: tipos primitivos e outros operadores de atribuição
 - 
