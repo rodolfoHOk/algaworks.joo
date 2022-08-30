@@ -27,4 +27,5 @@
 - Exercício: variáveis e operadores aritméticos
 - Tipos primitivos
 - Outros operadores de atribuição
+- Conversão de tipos primitivos
 - 
