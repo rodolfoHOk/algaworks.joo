@@ -19,4 +19,5 @@
 - Exercício: codificando um primeiro programa
 - Comentários
 - Sequências de escape
+- Palavras reservadas
 - 
