@@ -22,4 +22,5 @@
 - Palavras reservadas
 - Convenções de código
 - Trabalhando com variáveis
+- Nomeando variáveis
 - 

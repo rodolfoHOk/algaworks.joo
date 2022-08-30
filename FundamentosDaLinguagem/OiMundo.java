@@ -25,7 +25,7 @@ public class OiMundo {
 	
 	/* Palavras reservadas
 	 * 
-	 * - não podemos usar as palavras reservadas para nomes de classe e nomes de métodos
+	 * - não podemos usar as palavras reservadas para nomes de classes, métodos e variáveis.
 	 */
 	
 	
