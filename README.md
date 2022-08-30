@@ -23,4 +23,5 @@
 - Convenções de código
 - Trabalhando com variáveis
 - Nomeando variáveis
+- Operadores aritméticos
 - 
