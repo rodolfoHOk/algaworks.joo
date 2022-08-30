@@ -24,4 +24,6 @@
 - Trabalhando com variáveis
 - Nomeando variáveis
 - Operadores aritméticos
+- Exercício: variáveis e operadores aritméticos
+- Tipos primitivos
 - 
