@@ -13,7 +13,17 @@ public class OiMundo {
 		System.out.println("Oi \nMundo!"); // escape para imprimir pular de linha [\n]
 	}
 	
-	/* Palavras reservadas:
+	/* Compilando
+	 * 
+	 * - javac nome_do_arquivo.java
+	 */
+	 
+	/* Rodar o programa
+	 * 
+	 * - java nome_do_arquivo
+	 */
+	
+	/* Palavras reservadas
 	 * 
 	 * - não podemos usar as palavras reservadas para nomes de classe e nomes de métodos
 	 */
