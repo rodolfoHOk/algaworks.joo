@@ -36,6 +36,7 @@
 - Estruturas de controle if, else if e else
 - Exercício: Strings, entrada de dados, operadores de comparação e if else
 - Escopo de variáveis
+- Operadores lógicos
 - 
 
 ## Imagens
