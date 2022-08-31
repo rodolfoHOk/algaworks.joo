@@ -34,5 +34,14 @@
 - Recebendo entrada de dados
 - Operadores de comparação e igualdade
 - Estruturas de controle if, else if e else
+- Exercício: Strings, entrada de dados, operadores de comparação e if else
 - 
+
+## Imagens
+
+![Palavras Reservadas parte 1](/FundamentosDaLinguagem/palavras-reservadas-1.jpg)
+
+![Palavras Reservadas parte 2](/FundamentosDaLinguagem/palavras-reservadas-2.jpg)
+
+![Conversao de Tipos Primitivos](/FundamentosDaLinguagem/conversao-de-tipos-primitivos.jpg)
 
