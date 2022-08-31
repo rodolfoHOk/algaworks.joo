@@ -32,5 +32,6 @@
 - Exercício: tipos primitivos e outros operadores de atribuição
 - Trabalhando com strings
 - Recebendo entrada de dados
--
+- Operadores de comparação e igualdade
+- 
 
