@@ -37,6 +37,7 @@
 - Exercício: Strings, entrada de dados, operadores de comparação e if else
 - Escopo de variáveis
 - Operadores lógicos
+- Exercício: operadores lógicos
 - 
 
 ## Imagens
