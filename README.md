@@ -30,4 +30,7 @@
 - Conversão de tipos primitivos
 - Promoção aritmética
 - Exercício: tipos primitivos e outros operadores de atribuição
-- 
+- Trabalhando com strings
+- Recebendo entrada de dados
+-
+
