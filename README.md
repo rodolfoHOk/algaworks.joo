@@ -33,5 +33,6 @@
 - Trabalhando com strings
 - Recebendo entrada de dados
 - Operadores de comparação e igualdade
+- Estruturas de controle if, else if e else
 - 
 
