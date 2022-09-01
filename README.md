@@ -40,6 +40,7 @@
 - Exercício: operadores lógicos
 - Estrutura de controle switch
 - Operador ternário
+- Operadores de incremento e decremento
 - 
 
 ## Imagens
