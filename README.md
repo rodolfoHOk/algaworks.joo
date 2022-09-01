@@ -39,6 +39,7 @@
 - Operadores lógicos
 - Exercício: operadores lógicos
 - Estrutura de controle switch
+- Operador ternário
 - 
 
 ## Imagens
