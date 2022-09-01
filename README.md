@@ -45,6 +45,7 @@
 - Estrutura de controle do-while
 - Estrutura de controle for
 - Cláusulas break e continue
+- Exercício: operador ternário, decremento e estruturas de repetição
 - 
 
 ## Imagens
