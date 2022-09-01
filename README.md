@@ -38,6 +38,7 @@
 - Escopo de variáveis
 - Operadores lógicos
 - Exercício: operadores lógicos
+- Estrutura de controle switch
 - 
 
 ## Imagens
