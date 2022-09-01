@@ -42,6 +42,7 @@
 - Operador ternário
 - Operadores de incremento e decremento
 - Estrutura de controle while
+- Estrutura de controle do-while
 - 
 
 ## Imagens
