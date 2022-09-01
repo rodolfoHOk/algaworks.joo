@@ -44,6 +44,7 @@
 - Estrutura de controle while
 - Estrutura de controle do-while
 - Estrutura de controle for
+- Cláusulas break e continue
 - 
 
 ## Imagens
