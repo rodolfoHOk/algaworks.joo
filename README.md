@@ -43,6 +43,7 @@
 - Operadores de incremento e decremento
 - Estrutura de controle while
 - Estrutura de controle do-while
+- Estrutura de controle for
 - 
 
 ## Imagens
