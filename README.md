@@ -61,6 +61,7 @@
 - Composição de objetos
 - Valores padrão
 - Variáveis referenciam objetos
+- Criando, nomeando e chamando métodos
 - 
 
 ## Imagens
