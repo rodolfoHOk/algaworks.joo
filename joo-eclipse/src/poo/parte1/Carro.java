@@ -11,7 +11,9 @@ public class Carro {
 	Proprietario proprietario;
 	
 	void ligar() {
-		System.out.println("Ligando o carro: " + modelo);
+		if (modelo != null) {
+			System.out.println("Ligando o carro: " + modelo);
+		}
 	}
 	
 }

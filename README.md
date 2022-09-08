@@ -62,6 +62,7 @@
 - Valores padrão
 - Variáveis referenciam objetos
 - Criando, nomeando e chamando métodos
+- Métodos com retorno
 - 
 
 ## Imagens

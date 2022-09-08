@@ -14,7 +14,7 @@ public class Principal4 {
 		
 		Carro carro1 = new Carro();
 		carro1.fabricante = "Fiat";
-		carro1.modelo = "Palio";
+//		carro1.modelo = "Palio";
 		carro1.cor = "Prata";
 		carro1.anoDeFabricacao = 2022;
 		carro1.biCombustivel = true;
