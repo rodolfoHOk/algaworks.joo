@@ -60,6 +60,7 @@
 - Exercício: instanciando e acessando atributos do objeto
 - Composição de objetos
 - Valores padrão
+- Variáveis referenciam objetos
 - 
 
 ## Imagens
