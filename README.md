@@ -50,6 +50,12 @@
 - Depurando códigos com o Eclipse
 - Exercício: instalando o Eclipse IDE
 
+### Orientação a Objetos - parte 1
+
+- O que é POO?
+- Classes e objetos
+- Criando uma classe com atributos
+- 
 
 ## Imagens
 
