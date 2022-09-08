@@ -67,8 +67,9 @@
 - Argumentos por valor ou referência
 - Exercício: composição de objetos e chamada de métodos
 
-### 
+### Wrappers, boxing e arrays
 
+- Wrappers do java.lang
 -
 
 ## Imagens
