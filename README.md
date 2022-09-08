@@ -47,6 +47,7 @@
 - Cláusulas break e continue
 - Exercício: operador ternário, decremento e estruturas de repetição
 - Introdução e instalação do Eclipse IDE
+- Depurando códigos com o Eclipse
 - 
 
 ## Imagens
