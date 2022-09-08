@@ -58,6 +58,7 @@
 - Instanciando objetos
 - Acessando atributos de objetos
 - Exercício: instanciando e acessando atributos do objeto
+- Composição de objetos
 - 
 
 ## Imagens
