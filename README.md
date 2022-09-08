@@ -55,6 +55,7 @@
 - O que é POO?
 - Classes e objetos
 - Criando uma classe com atributos
+- Instanciando objetos
 - 
 
 ## Imagens
