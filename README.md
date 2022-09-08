@@ -63,6 +63,7 @@
 - Variáveis referenciam objetos
 - Criando, nomeando e chamando métodos
 - Métodos com retorno
+- Passando argumentos para métodos
 - 
 
 ## Imagens
