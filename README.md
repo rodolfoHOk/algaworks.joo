@@ -56,7 +56,8 @@
 - Classes e objetos
 - Criando uma classe com atributos
 - Instanciando objetos
-- 
+- Acessando atributos de objetos
+-
 
 ## Imagens
 
