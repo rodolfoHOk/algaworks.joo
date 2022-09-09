@@ -79,6 +79,7 @@
 
 - Introdução à UML e diagrama de classes
 - Desafio: diagrama de classes
+- O objeto this
 - 
 
 ## Imagens
