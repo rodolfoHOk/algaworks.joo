@@ -75,9 +75,11 @@
 - Trabalhando com arrays
 - Exercício: arrays
 
-### 
+### Orientação a Objetos - parte 2
 
--
+- Introdução à UML e diagrama de classes
+- Desafio: diagrama de classes
+- 
 
 ## Imagens
 
