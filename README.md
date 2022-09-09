@@ -81,6 +81,7 @@
 - Desafio: diagrama de classes
 - O objeto this
 - Construtores
+- Encapsulamento e modificadores de acesso public e private
 - 
 
 ## Imagens
