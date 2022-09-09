@@ -83,6 +83,7 @@
 - Construtores
 - Encapsulamento e modificadores de acesso public e private
 - Criando JavaBeans
+- Desafio: objeto this, construtores e JavaBeans
 - 
 
 ## Imagens
