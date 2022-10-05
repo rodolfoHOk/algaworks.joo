@@ -84,6 +84,8 @@
 - Encapsulamento e modificadores de acesso public e private
 - Criando JavaBeans
 - Desafio: objeto this, construtores e JavaBeans
+- Organizando os projetos em pacotes
+- Modificador de acesso default
 - 
 
 ## Imagens
