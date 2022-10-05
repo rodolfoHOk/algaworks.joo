@@ -86,6 +86,8 @@
 - Desafio: objeto this, construtores e JavaBeans
 - Organizando os projetos em pacotes
 - Modificador de acesso default
+- Modificadores static e final
+- Desafio: static e final
 - 
 
 ## Imagens
