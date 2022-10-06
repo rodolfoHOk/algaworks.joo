@@ -93,7 +93,8 @@
 - Herança e modificador protected
 - Classe java.lang.Object
 - Sobreposição
--
+- Desafio: herança e sobreposição
+- 
 
 ## Imagens
 
