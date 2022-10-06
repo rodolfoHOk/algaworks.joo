@@ -88,6 +88,7 @@
 - Modificador de acesso default
 - Modificadores static e final
 - Desafio: static e final
+- Enumerações
 - 
 
 ## Imagens
