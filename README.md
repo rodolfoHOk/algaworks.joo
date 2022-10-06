@@ -89,6 +89,7 @@
 - Modificadores static e final
 - Desafio: static e final
 - Enumerações
+- Desafio: pacotes e enumerações
 - 
 
 ## Imagens
