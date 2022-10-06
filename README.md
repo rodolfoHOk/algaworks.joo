@@ -90,6 +90,7 @@
 - Desafio: static e final
 - Enumerações
 - Desafio: pacotes e enumerações
+- Herança e modificador protected
 - 
 
 ## Imagens
