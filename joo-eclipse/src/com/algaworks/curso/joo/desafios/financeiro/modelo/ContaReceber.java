@@ -49,5 +49,15 @@ public class ContaReceber extends Conta {
 			super.cancelar();
 		}
 	}
+
+	@Override
+	public void exibirDetalhes() {
+		System.out.println("Conta a Receber");
+		System.out.println("----------------------");
+		System.out.println("Descrição: " + getDescricao());
+		System.out.println("Valor: " + getValor());
+		System.out.println("Data Vencimento: " + getDataVencimento());
+		System.out.println("Cliente: " + cliente.getNome());
+	}
 	
 }

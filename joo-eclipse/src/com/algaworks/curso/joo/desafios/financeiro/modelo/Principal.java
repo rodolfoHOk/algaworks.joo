@@ -34,13 +34,11 @@ public class Principal {
 		ContaReceber contaReceber2 = new ContaReceber(telecom, "Manutenção em sistema de conta online", 
 			53200d, "13/05/2012");
 		
-		// pagamento e cancelamento de contas a pagar
-		contaPagar1.pagar();
-		contaPagar2.cancelar();
-
-		// recebimento e cancelamento de contas a receber
-		contaReceber1.receber();
-		contaReceber2.cancelar();
+		// exibe listagem de todas as contas com detalhamento
+		RelatorioContas relatorio = new RelatorioContas();
+		Conta[] contas = new Conta[]{contaPagar1, contaPagar2, contaReceber1, contaReceber2};
+		
+		relatorio.exibirListagem(contas);
 	}
 	
 }

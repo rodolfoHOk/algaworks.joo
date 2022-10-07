@@ -1,6 +1,6 @@
 package com.algaworks.curso.joo.desafios.financeiro.modelo;
 
-public class Pessoa {
+public abstract class Pessoa {
 
 	private String nome;
 

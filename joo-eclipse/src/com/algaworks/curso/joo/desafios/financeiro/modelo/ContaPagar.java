@@ -39,5 +39,15 @@ public class ContaPagar  extends Conta {
 			situacaoConta = SituacaoConta.PAGA;
 		}
 	}
+
+	@Override
+	public void exibirDetalhes() {
+		System.out.println("Conta a Pagar");
+		System.out.println("-------------------");
+		System.out.println("Descrição: " + getDescricao());
+		System.out.println("Valor: " + getValor());
+		System.out.println("Data Vencimento: " + getDataVencimento());
+		System.out.println("Fornecedor: " + fornecedor.getNome());
+	}
 	
 }
