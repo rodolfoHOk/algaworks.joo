@@ -1,0 +1,20 @@
+package com.algaworks.curso.joo.poo_parte_2;
+
+public class ArCondicionado {
+
+//	int temperatura;
+	private int temperatura;
+	
+	public void trocarTemperatura(int temperatura) {
+		if (temperatura >= 15 && temperatura <= 25) {
+			this.temperatura = temperatura;
+		} else {
+			System.err.println("Temperatura inválida");
+		}
+	}
+	
+	public int obterTemperatura() {
+		return this.temperatura;
+	}
+	
+}
