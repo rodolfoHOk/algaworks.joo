@@ -102,7 +102,10 @@
 - Interfaces
 - Exercício: interfaces e polimorfismo
 
-### 
+### Tópicos avançados
+
+- Coleta de lixo
+- 
 
 ## Imagens
 
