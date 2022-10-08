@@ -105,6 +105,7 @@
 ### Tópicos avançados
 
 - Coleta de lixo
+- Classe java.lang.Math
 - 
 
 ## Imagens
