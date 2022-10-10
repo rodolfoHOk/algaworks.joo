@@ -23,6 +23,7 @@ public class Principal {
 		contaPagar1.setFornecedor(imobiliaria);
 		
 		ContaPagar contaPagar2 = new ContaPagar(mercado, "Compras do mês", 390d, "19/05/2012");
+		contaPagar2.situacaoConta = SituacaoConta.CANCELADA;
 		
 		// instanciando contas a receber
 		ContaReceber contaReceber1 = new ContaReceber();
@@ -33,12 +34,45 @@ public class Principal {
 		
 		ContaReceber contaReceber2 = new ContaReceber(telecom, "Manutenção em sistema de conta online", 
 			53200d, "13/05/2012");
+		contaReceber2.situacaoConta = SituacaoConta.PAGA;
 		
 		// exibe listagem de todas as contas com detalhamento
 		RelatorioContas relatorio = new RelatorioContas();
 		Conta[] contas = new Conta[]{contaPagar1, contaPagar2, contaReceber1, contaReceber2};
 		
 		relatorio.exibirListagem(contas);
+		
+		try {
+			contaPagar1.pagar();
+		} catch (OperacaoContaException e) {
+			System.out.println("\nErro!");
+			System.out.println(e.getMessage());
+			System.out.println("Situação atual é: " + contaPagar1.situacaoConta);
+		}
+		
+		try {
+			contaPagar2.pagar();
+		} catch (OperacaoContaException e) {
+			System.out.println("\nErro!");
+			System.out.println(e.getMessage());
+			System.out.println("Situação atual é: " + contaPagar2.situacaoConta);
+		}
+		
+		try {
+			contaReceber1.receber();
+		} catch (OperacaoContaException e) {
+			System.out.println("\nErro!");
+			System.out.println(e.getMessage());
+			System.out.println("Situação atual é: " + contaReceber1.situacaoConta);
+		}
+		
+		try {
+			contaReceber2.receber();
+		} catch (OperacaoContaException e) {
+			System.out.println("\nErro!");
+			System.out.println(e.getMessage());
+			System.out.println("Situação atual é: " + contaReceber2.situacaoConta);
+		}
 	}
 	
 }

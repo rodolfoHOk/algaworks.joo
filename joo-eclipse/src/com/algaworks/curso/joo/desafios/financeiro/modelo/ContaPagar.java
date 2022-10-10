@@ -24,11 +24,12 @@ public class ContaPagar  extends Conta {
 		this.fornecedor = fornecedor;
 	}
 
-	public void pagar() {
+	public void pagar() throws OperacaoContaException {
 		if (situacaoConta.equals(SituacaoConta.CANCELADA) || situacaoConta.equals(SituacaoConta.PAGA)) {
-			System.out.println("\nErro!");
-			System.out.println("Uma conta só deve ser paga se a situação atual for PENDENTE");
-			System.out.println("Situação atual é: " + situacaoConta);
+//			System.out.println("\nErro!");
+//			System.out.println("Uma conta só deve ser paga se a situação atual for PENDENTE");
+//			System.out.println("Situação atual é: " + situacaoConta);
+			throw new OperacaoContaException("Uma conta só deve ser paga se a situação atual for PENDENTE");
 		} else if (situacaoConta.equals(SituacaoConta.PENDENTE)) {
 			System.out.println("\nPagamento");
 			System.out.println("-------------------");

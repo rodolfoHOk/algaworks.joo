@@ -108,6 +108,7 @@
 - Classe java.lang.Math
 - Desafio: classe java.lang.Math
 - Tratando e lançando exceções
+- Desafio: exceções
 - 
 
 ## Imagens

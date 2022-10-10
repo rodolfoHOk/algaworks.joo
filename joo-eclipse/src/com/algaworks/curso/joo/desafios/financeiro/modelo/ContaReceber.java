@@ -24,11 +24,12 @@ public class ContaReceber extends Conta {
 		this.cliente = cliente;
 	}
 	
-	public void receber() {
+	public void receber() throws OperacaoContaException {
 		if (situacaoConta.equals(SituacaoConta.CANCELADA) || situacaoConta.equals(SituacaoConta.PAGA)) {
-			System.out.println("\nErro!");
-			System.out.println("Uma conta só deve ser recebida se a situação atual for PENDENTE");
-			System.out.println("Situação atual é: " + situacaoConta);
+//			System.out.println("\nErro!");
+//			System.out.println("Uma conta só deve ser recebida se a situação atual for PENDENTE");
+//			System.out.println("Situação atual é: " + situacaoConta);
+			throw new OperacaoContaException("Uma conta só deve ser recebida se a situação atual for PENDENTE");
 		} else if (situacaoConta.equals(SituacaoConta.PENDENTE)) {
 			System.out.println("\nRecebimento");
 			System.out.println("-------------------");
