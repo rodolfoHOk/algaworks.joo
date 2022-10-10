@@ -109,6 +109,7 @@
 - Desafio: classe java.lang.Math
 - Tratando e lançando exceções
 - Desafio: exceções
+- Classes String, StringBuffer e StringBuilder
 - 
 
 ## Imagens
