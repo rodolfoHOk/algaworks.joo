@@ -116,6 +116,7 @@
 - Desafio: números
 - Collections Framework
 - Métodos equals e hashCode
+- Desafio: collections
 - 
 
 ## Imagens
