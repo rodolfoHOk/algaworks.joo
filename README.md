@@ -117,6 +117,8 @@
 - Collections Framework
 - Métodos equals e hashCode
 - Desafio: collections
+- Arquivos JAR
+- Exercício: arquivos JAR
 - 
 
 ## Imagens
