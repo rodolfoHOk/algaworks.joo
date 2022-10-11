@@ -121,6 +121,10 @@
 - Exercício: arquivos JAR
 - Documentação javadoc
 - Desafio: javadoc
+- Ordenando objetos
+
+### Mais detalhes e frameworks
+
 - 
 
 ## Imagens
