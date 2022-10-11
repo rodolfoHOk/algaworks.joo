@@ -115,6 +115,7 @@
 - Trabalhando com números
 - Desafio: números
 - Collections Framework
+- Métodos equals e hashCode
 - 
 
 ## Imagens
