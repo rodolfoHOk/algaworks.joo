@@ -3,7 +3,19 @@ package com.algaworks.curso.joo.jar;
 import java.math.BigDecimal;
 import java.text.DecimalFormat;
 
+/**
+ * Classe principal que calcula os gastos do governo com determinados partidos políticos.
+ * 
+ * @author rodolfo
+ *
+ */
 public class JarPrincipal {
+	
+	/**
+	 * Método principal que calcula os gastos do governo com determinados partidos políticos
+	 * 
+	 * @param args
+	 */
 	public static void main(String[] args) {
 		DecimalFormat formatador = new DecimalFormat("R$ #,##0.00");
 		

@@ -6,6 +6,13 @@ import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 
+/**
+ * Classe que representa o governo.
+ * Mapeia os políticos do governo pelo partido político
+ * 
+ * @author rodolfo
+ *
+ */
 public class Governo {
 
 	private Map<String, List<Politico>> partidosPoliticos;
@@ -14,6 +21,12 @@ public class Governo {
 		this.partidosPoliticos = new HashMap<String, List<Politico>>();
 	}
 
+	/**
+	 * Método para adicionar um político ao governo
+	 * 
+	 * @param partidoPolitico A sigla do partido político
+	 * @param politico O político a adicionar
+	 */
 	public void adicionarPolitico(String partidoPolitico, Politico politico) {
 		List<Politico> politicos = this.partidosPoliticos.get(partidoPolitico);
 		
@@ -26,6 +39,12 @@ public class Governo {
 		this.partidosPoliticos.put(partidoPolitico, politicos);
 	}
 
+	/**
+	 * Método para calcular os gastos do governo com salários de um determinado partido político
+	 * 
+	 * @param partidoPolitico A sigla do partido político
+	 * @return Retorna a soma dos salários dos políticos do partido
+	 */
 	public BigDecimal calcularGastosComSalario(String partidoPolitico) {
 		List<Politico> politicosDoPartido = this.partidosPoliticos.get(partidoPolitico);
 		BigDecimal somaSalarios = BigDecimal.ZERO;
@@ -37,6 +56,13 @@ public class Governo {
 		return somaSalarios;
 	}
 	
+	/**
+	 * Método para calcular os gastos do governo com salários de um determinado cargo e partido político
+	 * 
+	 * @param cargo O cargo político
+	 * @param partidoPolitico A sigla do partido político
+	 * @return Retorna a soma dos salários dos políticos do partido em um determinado cargo
+	 */
 	public BigDecimal calcularGastosComSalarioParaCargo(Cargo cargo, String partidoPolitico) {
 		List<Politico> politicosDoPartido = this.partidosPoliticos.get(partidoPolitico);
 		BigDecimal somaSalariosParaOCargo = BigDecimal.ZERO;
