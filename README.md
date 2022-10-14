@@ -125,6 +125,7 @@
 
 ### Mais detalhes e frameworks
 
+- Métodos da classe String
 - 
 
 ## Imagens
