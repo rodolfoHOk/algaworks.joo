@@ -127,6 +127,7 @@
 
 - Métodos da classe String
 - StringBuilder e StringBuffer
+- JOptionPane
 - 
 
 ## Imagens

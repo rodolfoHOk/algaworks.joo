@@ -1,4 +1,4 @@
-package com.algaworks.curso.joo.maisEframework;
+package com.algaworks.curso.joo.maisEframework.stringBufferEstringBuilder;
 
 public class ExemploStringBuffer {
 	
