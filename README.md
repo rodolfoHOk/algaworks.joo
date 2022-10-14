@@ -126,6 +126,7 @@
 ### Mais detalhes e frameworks
 
 - Métodos da classe String
+- StringBuilder e StringBuffer
 - 
 
 ## Imagens
