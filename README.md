@@ -134,6 +134,7 @@
 - Introdução ao JSON
 - Arquivos properties
 - Geração de javadoc
+- Introdução a expressão regulares
 - 
 
 ## Imagens
@@ -144,3 +145,6 @@
 
 ![Conversao de Tipos Primitivos](/FundamentosDaLinguagem/conversao-de-tipos-primitivos.jpg)
 
+## Links úteis
+
+- https://www.regular-expressions.info/
