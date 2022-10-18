@@ -137,6 +137,7 @@
 - Introdução a expressão regulares
 - Introdução a generics
 - Logging com log4j
+- Debug com Eclipse
 - 
 
 ## Imagens
