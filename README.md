@@ -139,6 +139,7 @@
 - Logging com log4j
 - Debug com Eclipse
 - Maven
+- Testes de unidade com JUnit
 - 
 
 ## Imagens
