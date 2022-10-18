@@ -1,0 +1,12 @@
+INFO main com.algaworks.curso.joo.maisEframework.logging.ExemploSalvandoCliente - Iniciando a aplicação
+WARN main com.algaworks.curso.joo.maisEframework.logging.dao.ClienteDAO - Cliente está nulo
+INFO main com.algaworks.curso.joo.maisEframework.logging.ExemploSalvandoCliente - Finalizando a aplicação
+INFO main com.algaworks.curso.joo.maisEframework.logging.ExemploSalvandoCliente - Iniciando a aplicação
+WARN main com.algaworks.curso.joo.maisEframework.logging.dao.ClienteDAO - Cliente está nulo
+INFO main com.algaworks.curso.joo.maisEframework.logging.ExemploSalvandoCliente - Finalizando a aplicação
+2022-10-17 23:22:39,301 INFO main com.algaworks.curso.joo.maisEframework.logging.ExemploSalvandoCliente - Iniciando a aplicação
+2022-10-17 23:22:39,310 WARN main com.algaworks.curso.joo.maisEframework.logging.dao.ClienteDAO - Cliente está nulo
+2022-10-17 23:22:39,310 INFO main com.algaworks.curso.joo.maisEframework.logging.ExemploSalvandoCliente - Finalizando a aplicação
+2022-10-17 23:25:02,261 INFO main com.algaworks.curso.joo.maisEframework.logging.ExemploSalvandoCliente - Iniciando a aplicação
+2022-10-17 23:25:02,282 WARN main com.algaworks.curso.joo.maisEframework.logging.dao.ClienteDAO - Cliente está nulo
+2022-10-17 23:25:02,283 INFO main com.algaworks.curso.joo.maisEframework.logging.ExemploSalvandoCliente - Finalizando a aplicação

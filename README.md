@@ -136,6 +136,7 @@
 - Geração de javadoc
 - Introdução a expressão regulares
 - Introdução a generics
+- Logging com log4j
 - 
 
 ## Imagens
@@ -149,3 +150,5 @@
 ## Links úteis
 
 - https://www.regular-expressions.info/
+- https://logging.apache.org/log4j/2.x/index.html
+- https://logging.apache.org/log4j/2.x/manual/architecture.html
