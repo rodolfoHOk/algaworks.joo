@@ -138,6 +138,7 @@
 - Introdução a generics
 - Logging com log4j
 - Debug com Eclipse
+- Maven
 - 
 
 ## Imagens
