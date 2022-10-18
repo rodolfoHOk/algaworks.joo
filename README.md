@@ -140,6 +140,10 @@
 - Debug com Eclipse
 - Maven
 - Testes de unidade com JUnit
+- Parâmetros da JVM
+
+### Entrada e saída - I/O
+
 - 
 
 ## Imagens
