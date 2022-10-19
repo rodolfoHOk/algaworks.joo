@@ -157,6 +157,7 @@
 ### Novidades do Java 7
 
 - Separador de dígitos em literais numéricos
+- Switch case com String
 - 
 
 ### Novidades do Java 8
