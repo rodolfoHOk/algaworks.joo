@@ -144,6 +144,7 @@
 
 ### Entrada e saída - I/O
 
+- Gravando arquivo
 - 
 
 ## Imagens
