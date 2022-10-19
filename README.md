@@ -159,7 +159,7 @@
 - Separador de dígitos em literais numéricos
 - Switch case com String
 - Diamond
-- 
+- try-with-resources e multi-catch
 
 ### Novidades do Java 8
 
