@@ -146,7 +146,11 @@
 
 - Gravando arquivo
 - Lendo arquivo
-- 
+- A classe Scanner
+
+### 
+
+-
 
 ## Imagens
 

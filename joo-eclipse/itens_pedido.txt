@@ -1,0 +1,4 @@
+Arroz;3;19,80;
+Feijao;2;12,50;
+Extrato de tomate;1;3,25;
+Óleo de Soja;2;8,09;
