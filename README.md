@@ -152,6 +152,10 @@
 
 - Salvando e lendo objetos em arquivo
 - Enviando objetos na rede
+- Criando uma aplicação de chat
+
+###
+
 - 
 
 ## Imagens
