@@ -151,6 +151,7 @@
 ### Serialização de objetos
 
 - Salvando e lendo objetos em arquivo
+- Enviando objetos na rede
 - 
 
 ## Imagens
