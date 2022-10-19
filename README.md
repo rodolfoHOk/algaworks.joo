@@ -148,9 +148,10 @@
 - Lendo arquivo
 - A classe Scanner
 
-### 
+### Serialização de objetos
 
--
+- Salvando e lendo objetos em arquivo
+- 
 
 ## Imagens
 
