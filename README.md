@@ -154,7 +154,12 @@
 - Enviando objetos na rede
 - Criando uma aplicação de chat
 
-###
+### Novidades do Java 7
+
+- Separador de dígitos em literais numéricos
+- 
+
+### Novidades do Java 8
 
 - 
 
