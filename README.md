@@ -166,6 +166,7 @@
 - Introdução ao Lambda
 - Referência a métodos
 - Interfaces funcionais
+- Introdução a Stream
 - 
 
 ## Imagens
