@@ -165,6 +165,7 @@
 
 - Introdução ao Lambda
 - Referência a métodos
+- Interfaces funcionais
 - 
 
 ## Imagens

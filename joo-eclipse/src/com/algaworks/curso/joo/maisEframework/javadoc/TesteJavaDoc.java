@@ -5,6 +5,7 @@ import com.algaworks.curso.joo.maisEframework.javadoc.modelo.Funcionario;
 public class TesteJavaDoc {
 
 	public static void main(String[] args) {
+		@SuppressWarnings("deprecation")
 		Funcionario funcionarioTesteDepreciado = new Funcionario("João Carvalho");
 		funcionarioTesteDepreciado.setSalario(4000);
 		
