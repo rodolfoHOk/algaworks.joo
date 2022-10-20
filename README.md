@@ -172,7 +172,7 @@
 - API de Data - Parte 3
 - API de Data - Parte 4
 - Próximos passos
-- 
+- Conclusão
 
 ## Imagens
 
@@ -190,6 +190,10 @@
 - Não pare de programar
 - Aprenda a programar para Web
 - Pense na certificação Java
+
+## Conclusão
+
+<img src="https://raw.githubusercontent.com/rodolfoHOk/portfolio-img/main/images/certificado-algaworks-joo.png" alt="Certificado JOO Algaworks" width="450"/>
 
 ## Links úteis
 
