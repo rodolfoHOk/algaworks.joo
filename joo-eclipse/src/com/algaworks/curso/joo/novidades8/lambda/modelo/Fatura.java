@@ -39,4 +39,8 @@ public class Fatura {
 		return "Valor devido: " + this.valor;
 	}
 	
+	public void atualizarStatus() {
+		System.out.println("Atualizando status da fatura de valor R$ " + this.valor);
+	}
+	
 }

@@ -164,6 +164,7 @@
 ### Novidades do Java 8
 
 - Introdução ao Lambda
+- Referência a métodos
 - 
 
 ## Imagens
