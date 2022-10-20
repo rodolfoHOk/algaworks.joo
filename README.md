@@ -171,6 +171,7 @@
 - API de Data - Parte 2
 - API de Data - Parte 3
 - API de Data - Parte 4
+- Próximos passos
 - 
 
 ## Imagens
@@ -180,6 +181,15 @@
 ![Palavras Reservadas parte 2](/FundamentosDaLinguagem/palavras-reservadas-2.jpg)
 
 ![Conversao de Tipos Primitivos](/FundamentosDaLinguagem/conversao-de-tipos-primitivos.jpg)
+
+## Próximos passos
+
+- Nunca pare de estudar
+- Leia livros
+- Leia revistas
+- Não pare de programar
+- Aprenda a programar para Web
+- Pense na certificação Java
 
 ## Links úteis
 
